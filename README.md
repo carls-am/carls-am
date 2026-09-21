@@ -1,6 +1,6 @@
 ## GET OUTTTTTTTTTT
 
-[![Cat Screaming](https://i.pinimg.com/736x/0f/4f/f3/0f4ff34c4ccfcb3b0ef5b3bdd6838ccf.jpg)(https://youtu.be/4L6JAzVyFSE?si=EvS-HfX6QJXaLwPy)]
+[![Cat Screaming](https://i.pinimg.com/736x/0f/4f/f3/0f4ff34c4ccfcb3b0ef5b3bdd6838ccf.jpg)https://youtu.be/4L6JAzVyFSE?si=EvS-HfX6QJXaLwPy]
 <!--
 **carls-am/carls-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
